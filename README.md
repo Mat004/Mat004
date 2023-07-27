@@ -55,7 +55,7 @@ I love watch movies, play retro video games and learn new things!
 <!--   * [UK High Value Customers Identification](https://github.com/provezano/UK-High-Value-Customers-Identification) -->
 
 
-
+<!--
 ## 📖 I’m currently learning about
   
   * Lifelong Learning
@@ -63,6 +63,7 @@ I love watch movies, play retro video games and learn new things!
   * Dataviz
   * Gamification
   * Programming Techniques
+-->
 
 ![snake gif](https://github.com/Mat004/Mat004/blob/output/github-contribution-grid-snake.gif)
 
