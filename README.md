@@ -2,7 +2,7 @@
 
 I'm a Market Intelligence Analyst at on [InterCement S.A](https://brasil.intercement.com/)
 
-I love watch movies, play retro video games and learn new things!
+I love to watch movies, play retro video games and learn new things!
 
 <div align="center">
   <a href="https://github.com/Mat004">
