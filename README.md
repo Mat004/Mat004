@@ -64,8 +64,8 @@ I love to watch movies, play retro video games and learn new things!
   * Dataviz
   * Gamification
   * Programming Techniques
--->
+
 
 ![snake gif](https://github.com/Mat004/Mat004/blob/output/github-contribution-grid-snake.gif)
-
+-->
 
