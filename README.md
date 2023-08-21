@@ -45,7 +45,8 @@ I love to watch movies, play retro video games and learn new things!
 <h2><a target="_blank" href="https://mat004.github.io/portfolio_projetos/">Projects Portfolio</a></h2>
 
   * [House Sales Data Analysis](https://github.com/Mat004/Insights-House-Rocket/blob/main/README.md)
-  * [Star Jeans](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/README.md)
+  * [Star Jeans Webscraping](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/README.md)
+  * [Rossman Sales Predict](https://github.com/Mat004/Rossman_Store_Sale)
 <!--   * [Churn Prediction](https://github.com/PedroFerraresi/churn_prediction) -->
 <!--   * [Census Income Dataset](https://github.com/provezano/census-income-dataset) -->
 <!--   * [Stroke Prediction](https://github.com/provezano/stroke-prediction) -->
