@@ -1,72 +1,109 @@
-# Hi there, I'm Matheus Rodrigues
+<div align="center">
 
-I'm a Market Intelligence Analyst at on [InterCement S.A](https://brasil.intercement.com/)
+# 👋 Olá, eu sou Matheus Rodrigues
 
-I love to watch movies, play retro video games and learn new things!
+### Market Intelligence Analyst @ [InterCement S.A](https://brasil.intercement.com/) · Data Enthusiast · Retro Gamer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Market+Intelligence+Analyst;Python+%26+Data+Science+Lover;Retro+Game+%26+Movie+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mat004&color=00b4d8&style=flat-square&label=Profile+Views)](https://github.com/Mat004)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-msrodrigues)
+[![Outlook](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:matheussouza004@outlook.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat-square&logo=google-chrome&logoColor=white)](https://mat004.github.io/portfolio_projetos/)
+
+</div>
+
+---
+
+## 🧠 Sobre mim
+
+- 💼 Trabalho como **Market Intelligence Analyst** na InterCement S.A, transformando dados em decisões estratégicas
+- 📊 Apaixonado por **Python, Data Science e visualização de dados**
+- 🎮 Nas horas vagas, jogo **video games retrô** e assisto **filmes**
+- 📚 Acredito no **aprendizado contínuo** — sempre tem algo novo a descobrir!
+
+---
+
+## 🛠️ Tech Stack
+
+**Linguagens & Notebooks**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+**Dados & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white)
+
+**Bancos de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Deploy & Cloud**
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Mat004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mat004&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mat004&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-  ## Some Tools that I work with
-  <!-- Tools  -->
-  <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <!-- <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
-    <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
-<!--     <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> -->
-  </div>
-  <br />
-  <div>
-    <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-    <!-- <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> -->
-    <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <!-- <img align="center" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /> -->
-  </div>
 
-  ## Feel Free to Contact Me on any channel
-<div> 
-  <a href="https://linkedin.com/in/matheus-msrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "mailto:matheussouza004@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<!-- GitHub Stats - usando GitHub Actions para maior estabilidade (recomendado substituir pelo seu próprio deploy) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mat004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat004&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
 </div>
 
- 
-<h2><a target="_blank" href="https://mat004.github.io/portfolio_projetos/">Projects Portfolio</a></h2>
+<div align="center">
 
-  * [House Sales Data Analysis](https://github.com/Mat004/Insights-House-Rocket/blob/main/README.md)
-  * [Star Jeans Webscraping](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/README.md)
-  * [Rossmann Sales Predict](https://github.com/Mat004/Rossman_Store_Sale)
-<!--   * [Churn Prediction](https://github.com/PedroFerraresi/churn_prediction) -->
-<!--   * [Census Income Dataset](https://github.com/provezano/census-income-dataset) -->
-<!--   * [Stroke Prediction](https://github.com/provezano/stroke-prediction) -->
-<!--   * [Churn Prediction](https://github.com/provezano/telco-customer-churn) -->
-<!--   * [Car Price Prediction](https://github.com/provezano/car-price-prediction) -->
-<!--   * [Health Insurance Cross Sell Prediction](https://github.com/provezano/Health_Insurance_Cross_Sell) -->
-<!--   * [UK High Value Customers Identification](https://github.com/provezano/UK-High-Value-Customers-Identification) -->
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=mat004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+</div>
 
-<!--
-## 📖 I’m currently learning about
-  
-  * Lifelong Learning
-  * Statistics
-  * Dataviz
-  * Gamification
-  * Programming Techniques
+---
 
+## 🏆 Troféus GitHub
 
-![snake gif](https://github.com/Mat004/Mat004/blob/output/github-contribution-grid-snake.gif)
--->
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mat004&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição |
+|---|---|
+| [🏠 House Sales Data Analysis](https://github.com/Mat004/Insights-House-Rocket/blob/main/README.md) | Análise de insights para maximizar lucro em compra e venda de imóveis |
+| [👖 Star Jeans Webscraping](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/README.md) | Web scraping para coleta de dados de produtos concorrentes |
+| [📈 Rossmann Sales Predict](https://github.com/Mat004/Rossman_Store_Sale) | Modelo de machine learning para previsão de vendas em lojas |
+
+➡️ **[Ver portfólio completo](https://mat004.github.io/portfolio_projetos/)**
+
+---
+
+## 📈 Atividade de Contribuições
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mat004&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Transformando dados em decisões, um commit de cada vez."* 🚀
+
+</div>
