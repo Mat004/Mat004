@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Matheus Rodrigues
 
-### Market Intelligence Analyst @ [InterCement S.A](https://brasil.intercement.com/) · Data Enthusiast · Retro Gamer
+### Data Intelligence Analyst @ [Grupo Boticário](https://www.grupoboticario.com.br/) · Data Enthusiast · Retro Gamer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Market+Intelligence+Analyst;Python+%26+Data+Science+Lover;Retro+Game+%26+Movie+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
@@ -17,16 +17,16 @@
 
 ## 🧠 Sobre mim
 
-- 💼 Trabalho como **Market Intelligence Analyst** na InterCement S.A, transformando dados em decisões estratégicas
-- 📊 Apaixonado por **Python, Data Science e visualização de dados**
-- 🎮 Nas horas vagas, jogo **video games retrô** e assisto **filmes**
+- 💼 Trabalho como **Data Intelligence Analyst** no Grupo Boticário, transformando dados em decisões estratégicas
+- 📊 Pregador de **Python, Data Science e visualização de dados** e um pouco de **R**
+- 🎮 Nas horas vagas, gosto de jogar **jogos de tabuleiro** com minha esposa e assistir **filmes**
 - 📚 Acredito no **aprendizado contínuo** — sempre tem algo novo a descobrir!
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Linguagens & Notebooks**
+**Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -88,7 +88,7 @@
 | [👖 Star Jeans Webscraping](https://github.com/Mat004/Web-Scraping-Star-Jeans/blob/main/README.md) | Web scraping para coleta de dados de produtos concorrentes |
 | [📈 Rossmann Sales Predict](https://github.com/Mat004/Rossman_Store_Sale) | Modelo de machine learning para previsão de vendas em lojas |
 
-➡️ **[Ver portfólio completo](https://mat004.github.io/portfolio_projetos/)**
+➡️ **[Ver portfólio completo](https://mat004.github.io/official_portfolio/)**
 
 ---
 
