@@ -4,7 +4,7 @@
 
 ### Data Intelligence Analyst @ [Grupo Boticário](https://www.grupoboticario.com.br/) · Data Enthusiast · Retro Gamer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Market+Intelligence+Analyst;Python+%26+Data+Science+Lover;Retro+Game+%26+Movie+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Data+Intelligence+Analyst;Python+%26+Data+Science+Lover;Board+Games+with+my+wife+%26+Movie+Enthusiast;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mat004&color=00b4d8&style=flat-square&label=Profile+Views)](https://github.com/Mat004)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-msrodrigues)
